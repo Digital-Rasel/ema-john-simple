@@ -1,0 +1,13 @@
+{
+    "emmet.syntaxProfiles": {
+
+    },
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.preferences": {
+
+    },
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+}
+}
